@@ -1,12 +1,12 @@
-# <img src="https://github.com/zxynxb/zxynxb/assets/171355561/eee568df-835f-4849-82f1-0889ae04c5aa" width="25"/> Hey there! Welcome to My Profile.
+# Hey there! Welcome to My Profile.
 
 ## About Me
 
-Hi there! I'm Zainab, a passionate Web Developer and Computer Science student based in Pakistan.
+I'm Zainab, a passionate Web Developer and Computer Science student based in Pakistan, also known as [ZainabDev](https://github.com/ZainabDev).
 
 ## 📦 Toolbox
 
-**Web Technologies**: `HTML`, `CSS`, `JavaScript`, `SASS`
+**Web Technologies**: `HTML` `CSS` `JavaScript` `SASS` `SCSS`
 
 **Languages:** `C` `C++` `JavaScript`
  
@@ -17,6 +17,13 @@ Hi there! I'm Zainab, a passionate Web Developer and Computer Science student ba
 **IDEs/Editors**: `VS Code` `Visual Studio`
 
 **Hosting/SaaS**: `Vercel` `Netlify` `GitHub Pages`
+
+## 📝 Currently Learning
+
+**Languages:** `C#` `Swift`
+
+**Frameworks:** `.NET`
+
  
 ## ✨ Fun Fact
 
@@ -24,4 +31,6 @@ I enjoy horror movies and photography.
 
 ## 📫 Contact
 
-[GitHub](https://github.com/zainabdev)
+- [GitHub](https://github.com/zainabdev)
+- [CodePen](https://codepen.io/zxynxb)
+- [YouTube](https://www.youtube.com/@zxynxb)
